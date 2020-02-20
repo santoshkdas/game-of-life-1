@@ -1,4 +1,5 @@
-#This is for testing jenkins
+#This is for testing CICD view in jenkins
+
 This is a simple demonstration application used in the [Jenkins: The Definitive Guide](http://wakaleo.com/books/jenkins-the-definitive-guide) book.
 
 ## Building the project
